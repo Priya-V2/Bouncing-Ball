@@ -14,3 +14,5 @@ This is a simple interactive game built using HTML5 Canvas and JavaScript. The g
 1. **Click on the Canvas:** The ball will move to the clicked location.
 1. **Observe Bouncing:** The ball bounces off the canvas edges.
 1. **Reset Button:** Click the "Reset" button to restart the bounce count.
+
+[Click here to play]( https://priya-v2.github.io/Bouncing-Ball/)
