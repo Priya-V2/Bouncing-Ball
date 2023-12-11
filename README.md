@@ -1,6 +1,6 @@
 **Overview**
 
-This is a simple interactive game built using HTML5 Canvas and JavaScript. The goal is to create an engaging experience where a ball responds to mouse clicks, bouncing off the canvas boundaries. The game features a reset button to restart the bounce count.
+This is an interactive application created using HTML5 Canvas and JavaScript. The objective is to design an engaging experience where a ball responds to mouse clicks, rebounding off the canvas boundaries. The application includes a reset button to restart the interaction.
 
 **Features**
 1. **Canvas Element:** Utilizes HTML5 Canvas for dynamic rendering.
@@ -15,4 +15,4 @@ This is a simple interactive game built using HTML5 Canvas and JavaScript. The g
 1. **Observe Bouncing:** The ball bounces off the canvas edges.
 1. **Reset Button:** Click the "Reset" button to restart the bounce count.
 
-[Click here to play]( https://priya-v2.github.io/Bouncing-Ball/)
+[Live Link]( https://priya-v2.github.io/Bouncing-Ball/)
